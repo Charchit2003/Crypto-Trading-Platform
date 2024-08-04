@@ -53,4 +53,4 @@ Type in 1-6
 
 ## Credits
 
-This project was created by [@gautamV19](https://www.github.com/gautamV19).
+This project was created by [@charchit2003](https://www.github.com/Charchit2003).
