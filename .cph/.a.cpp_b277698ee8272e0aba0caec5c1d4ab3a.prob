@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/Users/gautam/Desktop/hft/Crypto Trading Plateform/a.cpp","tests":[{"id":1689789415410,"input":"2\n3\ngood\n4\nabacadae","output":"gd\nbaaaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/gautam/Desktop/hft/Crypto Trading Plateform/a.cpp","group":"local","local":true}
