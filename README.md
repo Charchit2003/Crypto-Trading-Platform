@@ -42,12 +42,12 @@ g++ main.cpp -o trading_platform
 ```
 1: Print help
 2: Print exchange stats
-3: Make an offer
+3: Make an offer/ask
 4: Make a bid
 5: Print wallet
 6: Continue
 ===========
-Current time is: 2020/03/17 17:01:24.884492
+Current time is: 11-09-2024 17:01
 Type in 1-6
 ```
 

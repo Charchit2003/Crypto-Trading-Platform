@@ -1,3 +1,4 @@
+#include "Algorithm"
 #include "OrderBook.h"
 #include "CSVReader.h"
 #include <map>
